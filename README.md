@@ -1,18 +1,18 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="" />
 </div>
 
-# Run and deploy your AI Studio app
+Many ways to run
+# Run on Google Cloud public URL link
+Accessible via this URL - 
+<limited credits for free usage> 
 
-This contains everything you need to run your app locally.
+# Run and deploy in AI Studio
+1. Upload files to Google AI Studio where I built this app using the Code editor
+2. Provide your Gemini API key
+3. Run
 
-View your app in AI Studio: https://ai.studio/apps/9926f7ae-b4ef-429b-be51-e6b3b41aa1bd
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
+# Run Locally (Antigravity)
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
