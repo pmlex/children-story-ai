@@ -38,7 +38,7 @@ echo "VITE_API_KEY=your_gemini_api_key_here" > .env.local
 ```bash
 npm run dev
 ```
-The application will start, usually on `http://localhost:5173`. Open this URL in your browser to start generating stories!
+The application will start, example on `http://localhost:3001`. Open this URL in your browser to start generating stories!
 
 ### 5. Using the App
 - **Characters:** Enter names for the main characters.
