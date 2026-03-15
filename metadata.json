@@ -1,0 +1,5 @@
+{
+  "name": "Children's Story AI",
+  "description": "An interactive comic book creator for children where they can choose their favorite characters for AI-generated stories, illustrations, and voice narration.",
+  "requestFramePermissions": []
+}
