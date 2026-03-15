@@ -1,7 +1,5 @@
 # Reinventing Storytime: How I Built a Multimodal Comic Book Agent with Gemini
 
-*Disclaimer: I created this piece of content for the purposes of entering the Gemini Live Agent Challenge hackathon. #GeminiLiveAgentChallenge*
-
 Every parent knows the nightly struggle of bedtime stories. You try to invent new, engaging tales, but eventually, you run out of fresh ideas. While modern AI chatbots are incredible at generating text, children don't engage with walls of text—they need vibrant visuals, cheerful sounds, and the magic of seeing themselves (or their favorite toys) right there in the adventure.
 
 Inspired by the "Creative Storyteller" prompt for the Gemini Live Agent Challenge, I wanted to build something that thinks like a multimodal creative director. I wanted an agent that doesn't just reply with text, but instantly weaves an interleaved tapestry of customized illustrations, audio, and storytelling into a fluid comic book.
@@ -38,4 +36,6 @@ Building Children's Story AI taught me that the true power of Gemini lies not ju
 
 My next goal for this project? Adding microphone input. A child could interrupt the story midway (e.g., *"No, I want a dragon to show up!"*), and the agent would use the Gemini Live API to rapidly discard the upcoming JSON pages and dynamically re-render the story structure, audio, and images on the fly!
 
-I'm incredibly proud of what I built for the **#GeminiLiveAgentChallenge**, and I can't wait to see how multimodal AI continues to revolutionize the way we interact, play, and learn.
+#GeminiLiveAgentChallenge 
+
+I can't wait to see how multimodal AI continues to revolutionize the way we interact, play, and learn.
