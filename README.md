@@ -8,9 +8,9 @@ Children's Story AI is an immersive, multimodal story generator built with the [
 
 View the base app in AI Studio: https://ai.studio/apps/9926f7ae-b4ef-429b-be51-e6b3b41aa1bd
 
-## 🚀 Spin-Up Instructions (For Judges)
+## 🚀 Spin-Up Instructions
 
-Follow these steps to reproduce and run the project locally.
+Follow these steps to reproduce and run the project locally (I have tried with Antigravity)
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v18+ recommended)
